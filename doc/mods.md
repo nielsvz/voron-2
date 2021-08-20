@@ -16,3 +16,4 @@ Just a list of mods I'm currently using.
 ## To review
 * Klicky probe: https://github.com/jlas1/Klicky-Probe
 * Klicky probe MGN12 X carriage: https://github.com/jlas1/Klicky-Probe/tree/main/Usermods/bluedragonx
+* Zellnarex' klipper_config: https://github.com/zellneralex/klipper_config
