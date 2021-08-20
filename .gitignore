@@ -4,5 +4,8 @@
 ### VS Code
 .vscode/
 
-# OS Junk
+### OS Junk
 .DS_Store
+
+### Klipper
+/printer-*_*.cfg
